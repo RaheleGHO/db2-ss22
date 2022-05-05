@@ -15,7 +15,7 @@ Nähere Infos zur Organisation der Übungen findet ihr
 
 |   | Nachname | Vorname | Matrikelnummer | Studienfach | Studiengang (B.Sc., M.Sc, ...) | Forum Username | Studentische E-Mail       |
 |---|----------|---------|----------------|-------------|--------------------------------|----------------|---------------------------|
-| 1.|GHolamreza|Raheleh  |5309386         |Informatik   |M.Sc                            |RahelehG        |raheleh.gholamreza @student.uni-tuebingen.de |
+| 1.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
 | 2.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
   
 # Punktestand (wird von Tutoren angepasst)
